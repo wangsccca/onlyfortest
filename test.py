@@ -1,4 +1,4 @@
 words = "damn! what are you looking for?"
-key = "dsfjklfjieiofjdsfnmds,fjiewrlkdsfnm,djilweroipjnklsadfne"
+bot_token = "edjfeialzmdhrighpqkeuwbsjfhryfje"
 print(words)
-print(key)
+print(bot_token)
